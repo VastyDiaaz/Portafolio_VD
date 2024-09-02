@@ -1,0 +1,151 @@
+
+body{
+    background-color: #8f98ca;
+}
+
+header{
+    background-color: #2f0b52;
+    height: 500px;
+}
+
+h1{
+color: aliceblue;
+text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+cursor: pointer;
+}
+
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
+
+h3{
+    color: black;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-size: 30px;
+
+
+}
+
+h4{
+    color: black;
+    padding-left: 38%;
+    font-size: 20px;
+}
+
+h5{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+h6{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+
+/*ImAGEN DE LA PERSONA*/
+
+.foto{
+
+    text-align:center;
+    right: -600px;
+    top: 50px;
+    
+}
+
+.circular--square{
+    border-radius: 50%;
+    background-color: aliceblue;
+}
+
+
+img{
+
+    width: 200px;
+    height: 200px;
+    filter: brightness(1.5);
+    filter: contrast(1.2);
+}
+
+/*IMAGEN DE LA PERSONA, FIN*/
+
+
+
+
+/*FOTO DEL ENCABEZADO*/
+.hola{
+
+    width: 150px;
+    height: 250px;
+
+}
+
+.foto2{
+    text-align: center;
+    
+}
+/*Fin foto del encabezado*/
+
+
+#logo{
+    
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    padding-left: 3%;
+    padding-top: 1%;
+    cursor: pointer;
+}
+
+nav{
+    background-color: #a4ddeb;
+    margin-bottom: 10px;
+    height: 15%
+}
+
+
+.info{
+    
+    left: 150px;
+    top: -150px;  
+    
+}
+
+p{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}   
+
+#name{
+
+    color: rgb(243, 243, 243);
+    text-align: center;
+}
+
+footer{
+    background-color: #0E6BA8;
+}
+ 
+
+.bi-telephone{
+    color:rgb(0, 0, 0);
+    position: relative;
+
+}
+
+
+
+
+
+
+
+
+
